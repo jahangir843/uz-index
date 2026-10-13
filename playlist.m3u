@@ -135,38 +135,36 @@ https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xKYqFpVH/talk.jpg" group-title="Hindi", Zee Talkies
 http://107.167.16.138/zeetalkies/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ps6P3mNB/7x.png" group-title="Punjabi", 7x Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ps6P3mNB/7x.png" group-title="Music", 7x Music
 https://cdn2.in/7xPunjabihls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PZcBgJN2/9x.png" group-title="Punjabi", 9x Jalwa
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QW7mfPH/jakkas.jpg" group-title="Tamil", 9x Jhakaas
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QW7mfPH/jakkas.jpg" group-title="Music", 9x Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hFwkQDzf/9xm.png" group-title="Hindi", 9xm
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hFwkQDzf/9xm.png" group-title="Music", 9xm
 https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D85g1rP/b4u.png" group-title="Hindi", B4U
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D85g1rP/b4u.png" group-title="Music", B4U
 https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9mcrmvX2/deshi.jpg" group-title="Hindi", desi channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9mcrmvX2/deshi.jpg" group-title="Music", desi channel
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7J21dVSn/e-24.jpg" group-title="Punjabi", E 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7J21dVSn/e-24.jpg" group-title="Music", E 24
 https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/27T7y1mh/epic.jpg" group-title="Punjabi", Epic Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/27T7y1mh/epic.jpg" group-title="Music", Epic Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYn6J7pg/etv.png" group-title="Tamil", ETV Music
 https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vCmjYkLY/hindi-hits.png" group-title="Hindi", Hindi Hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vCmjYkLY/hindi-hits.png" group-title="Music", Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CKsVMng9/isai.png" group-title="Tamil", Isai Aruvi
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CKsVMng9/isai.png" group-title="Music", Isai Aruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CKsVMng9/isai.png" group-title="International", Wild Planet
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XfD9WNV3/images.png" group-title="International", Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
-#EXTINF:-1,Jalwa
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XfD9WNV3/images.png" group-title="Music", Jalwa
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
-#EXTINF:-1,Joo Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XfD9WNV3/images.png" group-title="Music", Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1,Music India
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XfD9WNV3/images.png" group-title="Music", Music India
 https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
-#EXTINF:-1,Music India [Backup 1]
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/main.mpd
 #EXTINF:-1,NH BollyRaga
 https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
 #EXTINF:-1,Only Music
