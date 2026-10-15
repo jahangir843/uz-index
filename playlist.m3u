@@ -203,38 +203,26 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8LWCsk74/Sony-Entertainment-TV.jpg" group-title="India", Sony Entertainment TV
 https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dwcBrX48/TV.jpg" group-title="India", &TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dwcBrX48/TV.jpg" group-title="Movies", &TV
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LzRR1jTR/Zee-Anmol.jpg" group-title="India", Zee Anmol
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/203.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jv5SGcSb/Zee-TV.png" group-title="India", Zee TV
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jv5SGcSb/Zee-TV.png" group-title="International", AMC
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jv5SGcSb/Zee-TV.png" group-title="Movies", AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-#EXTINF:-1,AMC Triller
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jv5SGcSb/Zee-TV.png" group-title="Movies", AMC Triller
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
-#EXTINF:-1,American Horrors
-http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
-#EXTINF:-1,AMG TV (Classic)
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1,Ava Family
-https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1,Ava Series
-https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1,Bang Bang TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Nq39nLY/Bang-Bang-TV.jpg" group-title="Movies", Bang Bang TV
 https://streams.sofast.tv/ptnr-yupptv/title-BANG-BANG-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
-#EXTINF:-1,Cine Action FR
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4ZdVt4Rz/Cine-Action-FR.jpg" group-title="Movies", Cine Action FR
 http://iptv.prosto.tv:7000/ch50/video.m3u8
-#EXTINF:-1,Cinemax Moremax
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4ZdVt4Rz/Cine-Action-FR.jpg" group-title="Movies", Cinemax Moremax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:-1,Cinevault Westerns
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XB9KLjf/Cinevault-Westerns.jpg" group-title="Movies", Cinevault Westerns
 https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1,Circle
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xk3Ngg6K/circle.jpg" group-title="Movies", Circle
 https://circle-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,Classic Movies
-https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
-#EXTINF:-1,Cowboy Movie Channel
-https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 #EXTINF:-1,FX 1 Movies
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1,Grand Cinema
