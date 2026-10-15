@@ -61,7 +61,7 @@ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PvpgdzX3/nrb.png" group-title="Bangla", NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7m7RWHQ/ntv.png" group-title="Bangla", NTV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7m7RWHQ/ntv.png" group-title="Bangla", NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TMRR9f9s/r11.jpg" group-title="Bangla", Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
@@ -93,7 +93,7 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zdHv7MQ/rongen.jpg" group-title="Bangla", Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PGj8RcnY/songet.jpg" group-title="Bangla", Sangeet Bangla 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PGj8RcnY/songet.jpg" group-title="Bangla", Sangeet Bangla
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mx1DgRX3/sony-ath.png" group-title="Bangla", Sony AATH
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
@@ -105,7 +105,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pr9tXpjS/z-bangla-hd.jpg" group-title="Bangla", Zee Bangla HD
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/pBPmnGNF/pitaara.jpg" group-title="Punjabi", Pitaara TV
+#EXTINF:-1 group-title="General", Channel
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4KH032s/pocket.png" group-title="Hindi", Pocket Flims
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
