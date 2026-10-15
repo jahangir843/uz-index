@@ -137,7 +137,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 http://107.167.16.138/zeetalkies/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ps6P3mNB/7x.png" group-title="Music", 7x Music
 https://cdn2.in/7xPunjabihls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PZcBgJN2/9x.png" group-title="Punjabi", 9x Jalwa
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/m5SMmYvN/yrf.jpg" group-title="Music", Yrf Music
+https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PZcBgJN2/9x.png" group-title="Music", 9x Jalwa
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QW7mfPH/jakkas.jpg" group-title="Music", 9x Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
@@ -151,7 +153,7 @@ https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/27T7y1mh/epic.jpg" group-title="Music", Epic Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYn6J7pg/etv.png" group-title="Tamil", ETV Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYn6J7pg/etv.png" group-title="Music", ETV Music
 https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vCmjYkLY/hindi-hits.png" group-title="Music", Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -159,48 +161,32 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XfD9WNV3/images.png" group-title="International", Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XfD9WNV3/images.png" group-title="Music", Jalwa
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PZcBgJN2/9x.png" group-title="Music", Jalwa
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XfD9WNV3/images.png" group-title="Music", Joo Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtthn9M6/joo.png" group-title="Music", Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XfD9WNV3/images.png" group-title="Music", Music India
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfHV4wWJ/music-ind.png" group-title="Music", Music India
 https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
-#EXTINF:-1,NH BollyRaga
-https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
-#EXTINF:-1,Only Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WWFbkXL2/only.png" group-title="Music", Only Music
 https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
-#EXTINF:-1,PTC Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/p6Z9gP8P/ptc.png" group-title="Music", PTC Music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-#EXTINF:-1,Public Music
-https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
-#EXTINF:-1,Punjabi Hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Kc3XFy4z/punjabi.jpg" group-title="Music", Punjabi Hits
 https://stream.ottlive.co.in/punjabihits/index.m3u8
-#EXTINF:-1,Raj Musix Kannada
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BVTMyRxC/kannada.jpg" group-title="Music", Musix Kannada
 https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
-#EXTINF:-1,Raj Musix Tamil
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CKBnLnSZ/raj.jpg" group-title="Music", RAJ Musix Tamil
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
-#EXTINF:-1,Ramdhenu
-https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/mpegts
-#EXTINF:-1,Saga Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TBwshvY8/saga.jpg" group-title="Music", Saga Music
 https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
-#EXTINF:-1,Saga Music Haryanvi
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3yCQLfKZ/haryanvi.png" group-title="Music", Saga Music Haryanvi
 https://amg01412-xiaomiasia-sagamusicharyanvi-xiaomi-0v34j.amagi.tv/playlist/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
-#EXTINF:-1,Sana Plus
-https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
-#EXTINF:-1,Steelbird Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G489Xt74/Stellbird-Music.jpg" group-title="Music", Stellbird Music
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
-#EXTINF:-1,Sun Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tpjKChRx/Sun-Music.jpg" group-title="Music", Sun Music
 https://hls.sunmusic.live/hls/stream.m3u8
-#EXTINF:-1,Tarang Music
-https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
-#EXTINF:-1,Ultimate TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vCJjWJWH/unl.jpg" group-title="Tamil", Unlimited TV
 https://stream.ottlive.co.in/utvtamil/index.m3u8
-#EXTINF:-1,Ultimate TV [Backup 1]
-https://mumbai-edge.smartplaytv.in/utv/index.m3u8
-#EXTINF:-1,YRF Music
-https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1,YRF Music [Backup 1]
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1,Zoom TV
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1,Zoom TV [Backup 1]
