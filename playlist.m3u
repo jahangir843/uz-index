@@ -33,6 +33,9 @@ https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vxqfVM9J/images.jpg" group-title="Bangla",DBC News
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h9l4ff91/channel-9.png" group-title="Bangla",Channel 9
+https://cdn-01.100tel.com/Channel9/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cprfpg48/deepto.png" group-title="Bangla",Deepto TV
 https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
 
@@ -56,6 +59,9 @@ https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pBDBvxR9/global.png" group-title="Bangla",Global TV
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qM6cR8mP/gtv.png" group-title="Bangla",GTV
+https://stream.ottplus.live/live/gtv_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3VZHgQx/jamuna-tv.jpg" group-title="Bangla",Jamuna TV
 https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
