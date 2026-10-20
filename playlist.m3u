@@ -285,6 +285,45 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Islamic",Medina Live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
+#EXTINF:-1 group-title="Islamic",Hum TV
+https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
+
+#----------------------------
+# Pakistan
+#----------------------------
+#EXTINF:-1 group-title="Pakistan",ARY Digital
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ARYDIGITAL/ARYDIGITAL.isml/ARYDIGITAL.m3u8
+
+#EXTINF:-1 group-title="Pakistan",ARY News
+https://stream.arynews.tv/arynews/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistan",Aaj News
+https://live.aaj.tv/Live-TV/Aaj-TV/index.m3u8
+
+#EXTINF:-1 group-title="Pakistan",Samaa TV
+https://live.samaa.tv/hls/samaatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistan",Geo News
+https://stream.outsider.ne/GeoNews/index.m3u8
+
+#EXTINF:-1 group-title="Pakistan",Geo Entertainment
+https://stream.outsider.ne/GeoEntertainment/index.m3u8
+
+#EXTINF:-1 group-title="Pakistan",PTV Home
+https://flussonic.defineatoz.com/PTV/index.m3u8
+
+#EXTINF:-1 group-title="Pakistan",PTV News
+https://str1.ptv.com.pk/PTVNews/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistan",Urdu 1
+https://cdn.urdu1.tv/urdu1.m3u8
+
+#EXTINF:-1 group-title="Pakistan",Dawn News
+https://live.dawnnews.tv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistan",24 News HD
+https://live.24tv.com.pk/24TV/index.m3u8
+
 #----------------------------
 # Sports
 #----------------------------
