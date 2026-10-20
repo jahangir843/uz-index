@@ -96,8 +96,29 @@ http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pr9tXpjS/z-bangla-hd.jpg" group-title="Bangla",Zee Bangla HD
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JWCJqsf3/amar-bangla.png" group-title="Bangla",Amar Bangla Digital
+http://115.187.41.216:8080/hls/amardigital/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VWwSKG9n/bbbbb.jpg" group-title="Bangla",Bangla Plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d00Bhvpj/color.jpg" group-title="Bangla",Color Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rKbkynDK/enterr-10.jpg" group-title="Bangla",Enterr 10 Bangla
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nM12Ndsc/jalsa.jpg" group-title="Bangla",Jalsha Movies
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PGj8RcnY/songet.jpg" group-title="Bangla",Sangeet Bangla
+https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bMS640Cq/star-bangla.jpg" group-title="Bangla",Star Bangla
+http://103.151.60.162:2122/play/a0f5/index.m3u8?hls
+
 #----------------------------
-# Indian / Hindi / General
+# Hindi / Indian General
 #----------------------------
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pjgQTSMg/sony-max.png" group-title="Hindi",Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
@@ -123,11 +144,11 @@ https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jv5SGcSb/Zee-TV.png" group-title="India",Zee TV
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pj1tNjr/Discovery-Kids.jpg" group-title="Kids",Discovery Kids
-https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6RGdDjpY/maa.jpg" group-title="Tamil",Star Maa Movies
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8LWCsk74/Sony-Entertainment-TV.jpg" group-title="Kids",Disney Channel India
-http://202.70.146.135:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRL6642M/Amrita-tv-logo.png" group-title="Tamil",Amrita TV
+https://ddash74r36xqp.cloudfront.net/master.m3u8
 
 #----------------------------
 # Music
@@ -153,6 +174,12 @@ https://hls.sunmusic.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R0QhPT3/Zoom-TV.jpg" group-title="Music",Zoom TV
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PZcBgJN2/9x.png" group-title="Music",9x Jalwa
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QW7mfPH/jakkas.jpg" group-title="Music",9x Jhakaas
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+
 #----------------------------
 # Kids
 #----------------------------
@@ -162,14 +189,20 @@ https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pj1tNjr/Discovery-Kids.jpg" group-title="Kids",Discovery Kids
 https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7m7RWHQ/ntv.png" group-title="Kids",Nick Jr.
-http://202.70.146.135:8000/play/a02n/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8LWCsk74/Sony-Entertainment-TV.jpg" group-title="Kids",Pogo
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7m7RWHQ/ntv.png" group-title="Kids",Nick Jr.
+http://202.70.146.135:8000/play/a02n/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8LWCsk74/Sony-Entertainment-TV.jpg" group-title="Kids",Sony Yay
 https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7m7RWHQ/ntv.png" group-title="Kids",Nick Bangla
+http://live.balajibroadband.com:3500/live/1341.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R0QhPT3/Zoom-TV.jpg" group-title="Kids",Doraemon TV
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
 #----------------------------
 # Documentary / International
@@ -185,6 +218,12 @@ http://202.70.146.135:8000/play/a05o/index.m3u8
 
 #EXTINF:-1 group-title="Documentary",Travel XP
 http://202.70.146.135:8000/play/a04o/index.m3u8
+
+#EXTINF:-1 group-title="Documentary",Love Nature
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary",Sony BBC Earth
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
 #----------------------------
 # Islamic
@@ -203,6 +242,12 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Islamic",Madani TV
 https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
+
+#EXTINF:-1 group-title="Islamic",Makkah Live
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8
+
+#EXTINF:-1 group-title="Islamic",Medina Live
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 #----------------------------
 # Sports
@@ -236,3 +281,27 @@ https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Willow Sports
 https://tvsen5.aynaott.com/willowhd/index.m3u8
+
+#EXTINF:-1 group-title="Sports",PTV Sports
+https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
+
+#EXTINF:-1 group-title="Sports",A Sports HD
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+
+#----------------------------
+# News
+#----------------------------
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x8hL6R2r/images.jpg" group-title="News",ATN News
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vxqfVM9J/images.jpg" group-title="News",DBC News
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JR0J6996/24.png" group-title="News",News 24 TV
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGkZCdYd/fff.png" group-title="News",Somoy TV
+https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="News",Nexus TV
+https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
