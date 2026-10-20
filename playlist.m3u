@@ -180,6 +180,9 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QW7mfPH/jakkas.jpg" group-title="Music",9x Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/m5SMmYvN/yrf.jpg" group-title="Music",YRF Music
+https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
 #----------------------------
 # Kids
 #----------------------------
