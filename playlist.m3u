@@ -65,6 +65,9 @@ https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3VZHgQx/jamuna-tv.jpg" group-title="Bangla",Jamuna TV
 https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
 
+#EXTINF:-1,Sananda TV
+http://27.124.71.27/Sun_Bangla/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zdHv7MQ/rongen.jpg" group-title="Bangla",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 
@@ -91,6 +94,22 @@ https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/67Vsv7qb/t-s.jpg" group-title="Bangla",T Sports
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
+https://stream.ottplus.live/live/global_tv_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jZHcG79H/ind.jpg" group-title="Bangla", Independent TV
+https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PvpgdzX3/nrb.png" group-title="Bangla", NRB TV
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CKtwBvk2/s-A.jpg" group-title="Bangla", SA TV
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
+
+#EXTINF:-1,G TV [Backup 1]
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
+
+#EXTINF:-1,G TV [Backup 1]
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mx1DgRX3/sony-ath.png" group-title="Bangla",Sony AATH
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
@@ -158,6 +177,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b262
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRL6642M/Amrita-tv-logo.png" group-title="Tamil",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 
+
+
 #----------------------------
 # Music
 #----------------------------
@@ -215,6 +236,9 @@ http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R0QhPT3/Zoom-TV.jpg" group-title="Kids",Doraemon TV
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1,Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+
 #----------------------------
 # Movies
 #----------------------------
@@ -227,8 +251,11 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="Movies",HBO Movies
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4m7YHgS2/star-movies.png" group-title="Movies",Star Movies
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmovies.smil/chunklist_b1680000.m3u8
+#EXTINF:-1,Star Movies
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98842.ts
+
+#EXTINF:-1,Star Movies [Backup 1]
+http://202.70.146.135:8000/play/a06r/index.m3u8
 
 #----------------------------
 # Documentary / International
@@ -251,6 +278,9 @@ https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 #EXTINF:-1 group-title="Documentary",TLC
 http://202.70.146.135:8000/play/a05i/index.m3u8
 
+#EXTINF:-1,TLC
+http://202.70.146.135:8000/play/a05i/index.m3u8
+
 #EXTINF:-1 group-title="Documentary",Travel XP
 http://202.70.146.135:8000/play/a04o/index.m3u8
 
@@ -258,7 +288,39 @@ http://202.70.146.135:8000/play/a04o/index.m3u8
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary",Sony BBC Earth
-https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+http://202.70.146.135:8000/play/a067/index.m3u8
+
+#EXTINF:-1,Animal Planet
+https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+
+#EXTINF:-1,Animal Planet [Backup 1]
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
+
+#EXTINF:-1,Animal Planet [Backup 2]
+http://27.124.71.27/Animal_Planet/index.m3u8
+
+#EXTINF:-1,Food Food
+https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
+
+#EXTINF:-1,INWILD
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+
+#EXTINF:-1,INWILD [Backup 1]
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+
+#EXTINF:-1,InWonder
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+http://202.70.146.135:8000/play/a05j/index.m3u8
+
+#EXTINF:-1,Travel XP HD
+http://103.159.180.34:5001/live/562.m3u8
+
+#EXTINF:-1,Wild Planet
+https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
+
+
 
 #----------------------------
 # Islamic
