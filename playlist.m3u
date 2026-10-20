@@ -213,11 +213,17 @@ https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
+#EXTINF:-1 group-title="Documentary",Discovery
+http://202.70.146.135:8000/play/a05z/index.m3u8
+
 #EXTINF:-1 group-title="Documentary",History
 http://202.70.146.135:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Documentary",National Geographic
 http://202.70.146.135:8000/play/a05o/index.m3u8
+
+#EXTINF:-1 group-title="Documentary",National Geographic HD
+https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 
 #EXTINF:-1 group-title="Documentary",Travel XP
 http://202.70.146.135:8000/play/a04o/index.m3u8
