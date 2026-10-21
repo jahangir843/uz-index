@@ -163,6 +163,15 @@ https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bMS640Cq/star-bangla.jpg" group-title="Bangla",Star Bangla
 http://103.151.60.162:2122/play/a0f5/index.m3u8?hls
 
+#EXTINF:-1,ETV Cinema
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+
+#EXTINF:-1,Channel 16
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Desh TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+
 #----------------------------
 # Hindi / Indian General
 #----------------------------
@@ -193,14 +202,14 @@ https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6RGdDjpY/maa.jpg" group-title="Tamil",Star Maa Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 
-#EXTINF:-1,Channel 16
-http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Desh TV
-https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRL6642M/Amrita-tv-logo.png" group-title="Tamil",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
+
+#EXTINF:-1,Geo Kahani
+https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
+
+#EXTINF:-1,Star Plus
+http://202.70.146.135:8000/play/a009/index.m3u8
 
 #----------------------------
 # Music
@@ -237,6 +246,12 @@ https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/m5SMmYvN/yrf.jpg" group-title="Music",YRF Music
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1,E24
+https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8
+
+#EXTINF:-1,Hindi Hits
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #----------------------------
 # Kids
