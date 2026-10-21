@@ -127,6 +127,9 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TMRR9f9s/r11.jpg" group-title="Bangla", Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
+#EXTINF:-1,Green TV
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mx1DgRX3/sony-ath.png" group-title="Bangla",Sony AATH
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 
@@ -189,6 +192,12 @@ https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6RGdDjpY/maa.jpg" group-title="Tamil",Star Maa Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1,Channel 16
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Desh TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRL6642M/Amrita-tv-logo.png" group-title="Tamil",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
