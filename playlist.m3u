@@ -3,6 +3,9 @@
 #----------------------------
 # Bangla TV
 #----------------------------
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jkbGrhC8/jgjgg.jpg" group-title="Bangla",Toffee TV
+https://toffeelive.com/en/watch/DNMXs5UBm1RY_In7IJ72
+
 #EXTINF:-1 group-title="Bangla",BTV
 https://rangdhonutvlive.indiansserials.com/tracks-v1a1/mono.ts.m3u8
 
