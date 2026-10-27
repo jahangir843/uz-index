@@ -181,6 +181,9 @@ https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 #----------------------------
 # Hindi / Indian General
 #----------------------------
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev?ref=skym3u.dev",MBC BOLLYWOOD
+http://93.184.10.248/MBCBollywood/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png"group-title="Hindi",SONY HD
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_hd.m3u8
 
@@ -188,7 +191,7 @@ https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallin
 http://202.70.146.135:8000/play/a025/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png"group-title="Hindi",SONY PAL
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_pal.m3u8
+http://live.balajibroadband.com:3500/live/474.m3u8
 
 #EXTINF:-1 tvg-id="ES55-JQBv9knK3AHNDWC" tvg-logo="https://assets-prod.services.toffeelive.com/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp" group-title="Family",Sony SAB HD
 https://prod-linear-media.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
@@ -386,7 +389,7 @@ http://202.70.146.135:8000/play/a067/index.m3u8
 #EXTINF:-1,Animal Planet
 https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
-#EXTINF:-1,Animal Planet [Backup 1]
+#EXTINF:-1,Animal Planet 
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 
 #EXTINF:-1,Food Food
@@ -455,17 +458,20 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Islamic",Medina Live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
-#EXTINF:-1 group-title="Islamic",Hum TV
-https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
-
 #----------------------------
 # Pakistan
 #----------------------------
+#EXTINF:-1 group-title="Islamic",Hum TV
+https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev?ref=skym3u.dev",ARY Q TV
+https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_1080p.m3u8
+
 #EXTINF:-1 group-title="Pakistan",ARY Digital
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ARYDIGITAL/ARYDIGITAL.isml/ARYDIGITAL.m3u8
 
 #EXTINF:-1 group-title="Pakistan",ARY News
-https://stream.arynews.tv/arynews/playlist.m3u8
+https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
 
 #EXTINF:-1 group-title="Pakistan",Aaj News
 https://live.aaj.tv/Live-TV/Aaj-TV/index.m3u8
@@ -496,8 +502,9 @@ https://live.24tv.com.pk/24TV/index.m3u8
 
 #EXTINF:-1 tvg-id="T9O9X5UBm1RY_In7UXFv" tvg-logo="https://assets-prod.services.toffeelive.com/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png" group-title="Drama",HUM Masala
 http://38.101.217.46/HumMasala/index.m3u8
+
 #EXTINF:-1 tvg-id="WtPBX5UBm1RY_In7mXEU" tvg-logo="https://assets-prod.services.toffeelive.com/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png" group-title="Drama",HUM Sitaray
-4SCghttp://38.101.217.46/HumSitaray/index.m3u8
+http://38.101.217.46/HumSitaray/index.m3u8
 
 #EXTINF:-1 tvg-id="019de785-3bd5-71a5-8724-86b9aae512ae" tvg-name="Food Network" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7965b8693481f770bcd710f96cc6ea47_playmist_food_network_400x400.jpg" group-title="English",Food Network
 https://tvsen3.aynaott.com/7hm4TfVp/index.m3u8
