@@ -452,7 +452,7 @@ https://tvsen3.aynaott.com/7hm4TfVp/index.m3u8
 #EXTINF:-1 group-title="Documentary", Beach TV Florida & Alabama (720p)
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentary", Beach TV Panama City (720p)
+#EXTINF:-1 group-title="Documentary", Beach TV Panama City 
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 
 #----------------------------
@@ -485,7 +485,7 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1 group-title="Pakistan", Hum TV
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 
-#EXTINF:-1 group-title="Pakistan",ARY Q TV
+#EXTINF:-1 group-title="Pakistan", ARY Q TV
 https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_1080p.m3u8
 
 #EXTINF:-1 group-title="Pakistan", ARY Digital
