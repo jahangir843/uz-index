@@ -162,10 +162,10 @@ http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
 http://14.96.244.82:5001/live/740.m3u8
 
 #EXTINF:-1 group-title="Bangla", Star Bangla
-http://103.151.60.162:2122/play/a0f5/index.m3u8?hls
+http://103.151.60.162:2122/play/a0f5/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", ETV Cinema
-https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 group-title="Bangla", Channel 16
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
@@ -183,11 +183,8 @@ http://103.151.60.162:2122/play/a01q/index.m3u8
 #EXTINF:-1 group-title="Hindi", SONY PAL
 http://59.103.38.46:8000/play/a0ac/index.m3u8
 
-#EXTINF:-1 group-title="Hindi", Sony SAB HD
-https://prod-linear-media.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
-
 #EXTINF:-1 group-title="Hindi", Sony YAY
-https://prod-linear-media.toffeelive.com/cdn/live/sonyyay/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
+http://103.165.93.31:8095/sonyYay/index.m3u8
 
 #EXTINF:-1 group-title="Hindi", Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
@@ -196,7 +193,7 @@ https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Hindi", Star Gold
-https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
+http://103.114.11.37:8081/StarGold/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 group-title="Hindi", Zee Action
 https://stream.ottplus.live/live/zee_action_abr/index.m3u8
@@ -259,9 +256,6 @@ https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 group-title="Music", MTV
 https://tvsen6.aynaott.com/mtv/index.m3u8?e=1784102610&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b99f4b905260714794250d1410a936a2
 
-#EXTINF:-1 group-title="Music", MTV
-http://198.58.104.90:8989/mtv2/index.m3u8
-
 #EXTINF:-1 group-title="Music", B4U Music
 https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
 
@@ -301,9 +295,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Music", Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 group-title="Music", Zoom
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-
 #EXTINF:-1 group-title="Music", XITE Hits
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/ts-eu-w1-n2/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
 
@@ -335,7 +326,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 # Movies
 #----------------------------
 #EXTINF:-1 group-title="Movies", &Pictures HD
-https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
+https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Movies", &TV HD
 https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
@@ -346,14 +337,8 @@ https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="Movies", HBO
 https://tvsen7.aynaott.com/hbo2/index.m3u8?e=1784102613&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=40fc8084b5fc57624decaf17689aa4e3
 
-#EXTINF:-1 group-title="Movies", HBO Movies
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-
 #EXTINF:-1 group-title="Movies", Star Movies
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98842.ts
-
-#EXTINF:-1 group-title="Movies", Star Movies 
-http://202.70.146.135:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 group-title="Movies", Zee Bangla Cinema
 https://prod-linear-media.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
@@ -368,22 +353,16 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 # Documentary / International
 #----------------------------
 #EXTINF:-1 group-title="Documentary", Sony BBC Earth HD
-https://prod-linear-media.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
+http://103.185.24.134:3001/SONY-BBC/index.m3u8
 
 #EXTINF:-1 group-title="Documentary", Discovery Science
 https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
-
-#EXTINF:-1 group-title="Documentary", Discovery HD
-https://prod-linear-media.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
 
 #EXTINF:-1 group-title="Documentary", Discovery
 https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Documentary", History
-http://202.70.146.135:8000/play/a065/index.m3u8
-
-#EXTINF:-1 group-title="Documentary", National Geographic
-http://202.70.146.135:8000/play/a05o/index.m3u8
+https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 group-title="Documentary", National Geographic HD
 https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
@@ -400,7 +379,7 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary", Animal Planet
 https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentary", Animal Planet 
+#EXTINF:-1 group-title="Documentary", Animal Planet HD
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 
 #EXTINF:-1 group-title="Documentary", Food Food
@@ -408,9 +387,6 @@ https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan", Food Network
 https://tvsen3.aynaott.com/7hm4TfVp/index.m3u8
-
-#EXTINF:-1 group-title="Documentary", INWILD
-https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary", INWILD 
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
@@ -420,9 +396,6 @@ https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg0
 
 #EXTINF:-1 group-title="Documentary", Nat Geo Wild
 http://iptv.prosto.tv:7000/ch83/video.m3u8
-
-#EXTINF:-1 group-title="Documentary", Travel XP HD
-http://103.159.180.34:5001/live/562.m3u8
 
 #EXTINF:-1 group-title="Documentary", Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
@@ -437,7 +410,7 @@ https://ptravelhls.persiana.live/hls/stream.m3u8
 https://prod-linear-media.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
 
 #EXTINF:-1 group-title="Documentary", TLC
-https://prod-linear-media.toffeelive.com/cdn/live/tlc_sd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
+https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Documentary", Food Network
 https://tvsen3.aynaott.com/7hm4TfVp/index.m3u8
@@ -456,9 +429,6 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
 #EXTINF:-1 group-title="Religion", Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-
-#EXTINF:-1 group-title="Religion", Peace TV English
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
 #EXTINF:-1 group-title="Religion", Quran Live
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
@@ -518,7 +488,7 @@ http://38.101.217.46/HumSitaray/index.m3u8
 # Sports
 #----------------------------
 #EXTINF:-1 group-title="Sports", T Sports HD
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 
 #EXTINF:-1 group-title="Sports", Star Sports 1
 https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
@@ -548,15 +518,12 @@ https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 group-title="Sports", PTV Sports
-https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
-
-#EXTINF:-1 group-title="Sports", PTV Sports
 https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059
 
 #EXTINF:-1 group-title="Sports", A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Sports", Red Bull TV (1080p)
+#EXTINF:-1 group-title="Sports", Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #----------------------------
@@ -587,6 +554,6 @@ https://tvsen6.aynaott.com/cnn/index.m3u8?e=1784102537&u=ee5437a7-c16b-4700-b317
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
 #EXTINF:-1 group-title="News", Al Jazeera
-http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h0Fl0HH0yjhLGehK-DJOHYQ
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 
