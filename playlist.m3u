@@ -107,7 +107,7 @@ https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jZHcG79H/ind.jpg" group-title="Bangla", Independent TV
+#EXTINF:-1 group-title="Bangla", Independent TV
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla", NRB TV
