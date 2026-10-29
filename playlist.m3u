@@ -389,6 +389,10 @@ http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/14208/index.m3u8
 #EXTINF:-1 group-title="Movies", Turkish Dramas Plus HD IL
 http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/14207/index.m3u8
 
+#EXTINF:-1 group-title="Movies", India Talkies
+https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8
+
+
 #----------------------------
 # Documentary / International
 #----------------------------
