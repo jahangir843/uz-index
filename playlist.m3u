@@ -5,7 +5,7 @@
 #----------------------------
 
 #EXTINF:-1 group-title="Bangla", BTV
-https://rangdhonutvlive.indiansserials.com/tracks-v1a1/mono.ts.m3u8
+https://btv.hridoytv-channel.workers.dev/btv.m3u8
 
 #EXTINF:-1 group-title="Bangla", Sangsad TV
 https://rangdhonutvlive.indiansserials.com/sangsad/tracks-v1a1/mono.ts.m3u8
@@ -30,6 +30,9 @@ https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", Boishakhi TV
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
+
+#EXTINF:-1 group-title="Bangla", Duronto TV
+http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", Channel 24
 https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
@@ -130,6 +133,15 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 group-title="Bangla", Green TV
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/index.m3u8
+
+#EXTINF:-1 group-title="Bangla", Bangla TV
+http://116.204.149.16/banglatv/index.m3u8
+
+#EXTINF:-1 group-title="Bangla", Bangla Jago TV
+http://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
+
+#EXTINF:-1 group-title="Bangla", Rupashi Bangla TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla", Sony AATH
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
@@ -250,6 +262,12 @@ https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 # Music
 #----------------------------
 
+#EXTINF:-1 group-title="Music", Dhoom Music Bangla
+https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
+
+#EXTINF:-1 group-title="Music", Bengali Beats
+https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="Music", 9XM
 https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
 
@@ -289,6 +307,9 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 group-title="Music", Zing
 https://prod-linear-media.toffeelive.com/cdn/live/zing_sd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
 
+#EXTINF:-1 group-title="Music", Mastiii
+https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
+
 #EXTINF:-1 group-title="Music", Doraemon TV
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
@@ -297,6 +318,9 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1 group-title="Music", XITE Hits
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/ts-eu-w1-n2/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+
+#EXTINF:-1 group-title="Music", Music India
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 
 #----------------------------
 # Kids
@@ -325,6 +349,13 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #----------------------------
 # Movies
 #----------------------------
+
+#EXTINF:-1 group-title="Movies", Colors Bangla Cinema
+http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
+
+#EXTINF:-1 group-title="Movies", Bangla Cinema
+http://103.151.60.162:2122/play/a02m/index.m3u8
+
 #EXTINF:-1 group-title="Movies", &Pictures HD
 https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8
 
@@ -421,6 +452,18 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 group-title="Documentary", Beach TV Panama City 
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 
+#EXTINF:-1 group-title="Documentary", 4K Travel
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+
+#EXTINF:-1 group-title="Documentary", Adventure Earth
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary", Alone
+https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary", Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+
 #----------------------------
 # Religion
 #----------------------------
@@ -479,10 +522,10 @@ https://str1.ptv.com.pk/PTVNews/playlist.m3u8
 https://cdn.urdu1.tv/urdu1.m3u8
 
 #EXTINF:-1 group-title="Pakistan", HUM Masala
-http://38.101.217.46/HumMasala/index.m3u8
+https://j6nfugukcl.gpcdn.net/tile_1/master.m3u8
 
 #EXTINF:-1 group-title="Pakistan", HUM Sitaray
-http://38.101.217.46/HumSitaray/index.m3u8
+https://j6nfugukcl.gpcdn.net/tile_2/master.m3u8
 
 #----------------------------
 # Sports
@@ -526,6 +569,9 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports", Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#EXTINF:-1 group-title="Sports", ESPN
+http://181.78.197.59:8000/play/a07z/index.m3u8
+
 #----------------------------
 # News
 #----------------------------
@@ -556,4 +602,12 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 group-title="News", Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
+#EXTINF:-1 group-title="News", BBC News
+https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
 
+#----------------------------
+# Lifestyle
+#----------------------------
+
+#EXTINF:-1 group-title="Lifestyle", Fashion TV
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
