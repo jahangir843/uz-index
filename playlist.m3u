@@ -22,7 +22,7 @@ https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/x8hL6R2r/images.jpg" group-title="Bangla",ATN News
-https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+https://tvsen6.aynaott.com/da6WMXAk/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6yMS03Q/ssss.png" group-title="Bangla",Bangla Vision
 https://tvsen5.aynaott.com/banglavision/index.m3u8
@@ -125,7 +125,7 @@ https://vods2.aynaott.com/gseriesDrama/index.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3z62gtw/NAGORIK.png" group-title="Bangla", Nagorik TV
-http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
+https://box.bbaria.net:8083/Nagorik_TV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Swvygx4J/nes-21.jpg" group-title="Bangla", News 21 TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
@@ -161,7 +161,7 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nM12Ndsc/jalsa.jpg" group-title="Indian Bangla",Jalsha Movies
-http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
+http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PGj8RcnY/songet.jpg" group-title="Bangla",Sangeet Bangla
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
@@ -188,10 +188,10 @@ http://93.184.10.248/MBCBollywood/index.m3u8
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png"group-title="Hindi",SONY SAB HD
-http://202.70.146.135:8000/play/a025/index.m3u8
+http://103.151.60.162:2122/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png"group-title="Hindi",SONY PAL
-http://live.balajibroadband.com:3500/live/474.m3u8
+http://59.103.38.46:8000/play/a0ac/index.m3u8
 
 #EXTINF:-1 tvg-id="ES55-JQBv9knK3AHNDWC" tvg-logo="https://assets-prod.services.toffeelive.com/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp" group-title="Family",Sony SAB HD
 https://prod-linear-media.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
@@ -233,7 +233,7 @@ https://ddash74r36xqp.cloudfront.net/master.m3u8
 https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
 
 #EXTINF:-1,Star Plus
-http://202.70.146.135:8000/play/a009/index.m3u8
+http://103.151.60.162:2122/play/a0fo/index.m3u8
 
 #EXTINF:-1 tvg-id="7x0Jd5YBEef-9-uVv_Gy" tvg-logo="https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png" group-title="Drama",Zee Anmol
 https://prod-linear-media.toffeelive.com/cdn/live/zee_anmol/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
@@ -242,7 +242,7 @@ https://prod-linear-media.toffeelive.com/cdn/live/zee_anmol/playlist.m3u8?edge-c
 https://prod-linear-media.toffeelive.com/cdn/live/zee_cafe_hd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
 
 #EXTINF:-1 tvg-id="MTVIndia.in@SD" xui-id="683" tvg-name="MTV India" tvg-chno="1078" channel-id="MTVIndia.in@SD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Indian Entertainment",MTV India
-http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h_PYm_-onoMUFiKJd-0F1R4
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" xui-id="515" tvg-name="Colors Cineplex" tvg-chno="48" channel-id="ColorsCineplex.in@SD" tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Indian Movies",Colors Cineplex
 https://vods2.aynaott.com/hindimovies/index.m3u8
@@ -252,6 +252,12 @@ https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallin
 
 #EXTINF:-1,Star Plus 
 https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/62.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBollywood.in@SD" tvg-name="Zee Bollywood" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bollywood.png" channel-id="ZeeBollywood.in@SD" tvg-country="IN" tvg-language="hin" group-title="Backup",Zee Bollywood
+https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@SD" tvg-name="Sony Entertainment TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-entertainment-tv.png" channel-id="SonyEntertainmentTelevision.in@SD" tvg-country="IN" tvg-language="hin" group-title="Backup",Sony Entertainment TV
+https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 
 #----------------------------
 # Music
@@ -296,6 +302,18 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="DK8dd5YBrjBfS2_Ru22e" tvg-logo="https://assets-prod.services.toffeelive.com/DK8dd5YBrjBfS2_Ru22e/posters/a4e57fd0-1853-4540-a9bc-0265ee43b5cb.png" group-title="Comedy",Zing
 https://prod-linear-media.toffeelive.com/cdn/live/zing_sd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R0QhPT3/Zoom-TV.jpg" group-title="Music",Doraemon TV
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zoom-tv.png" channel-id="Zoom.in" tvg-country="IN" tvg-language="hin" group-title="Backup",Zoom
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 channel-id="Zoom.in" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zoom-tv.png" tvg-id="Zoom.in" tvg-name="Zoom" tvg-country="IN" group-title="Backup" tvg-language="hin",Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-id="XITEHits.nl" tvg-name="XITE Hits" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/xite-hits-1080p-bf41ee4788.png" channel-id="XITEHits.nl" tvg-country="NL" tvg-language="eng;deu;nld" group-title="Backup",XITE Hits
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/ts-eu-w1-n2/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+
 #----------------------------
 # Kids
 #----------------------------
@@ -312,13 +330,10 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 http://202.70.146.135:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8LWCsk74/Sony-Entertainment-TV.jpg" group-title="Kids",Sony Yay
-https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_yay.m3u8
+http://103.165.93.31:8095/sonyYay/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7m7RWHQ/ntv.png" group-title="Kids",Nick Bangla
 http://live.balajibroadband.com:3500/live/1341.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R0QhPT3/Zoom-TV.jpg" group-title="Kids",Doraemon TV
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1,Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
@@ -330,7 +345,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
 
 #EXTINF:-1 tvg-id="5cwRnZUBtpl-Sbt7wWrN" tvg-logo="https://assets-prod.services.toffeelive.com/5cwRnZUBtpl-Sbt7wWrN/posters/5779ade3-e9ba-4107-b3da-bae6f891500a.png" group-title="Drama",&TV HD
-https://prod-linear-media.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
+https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="61b39e9d-7b21-414a-8050-a6d8cf68363b" tvg-name="Rakuten Movies" tvg-logo="https://s3.aynaott.com/storage/22af43810a37af9a151f1e0a23adde63" group-title="English",Rakuten Movies
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
@@ -344,11 +359,17 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1,Star Movies
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98842.ts
 
-#EXTINF:-1,Star Movies [Backup 1]
+#EXTINF:-1,Star Movies 
 http://202.70.146.135:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-id="-C7MX5UBv9knK3AHdKOi" tvg-logo="https://assets-prod.services.toffeelive.com/-C7MX5UBv9knK3AHdKOi/posters/e37fef13-9bf3-4ecc-8b74-fca091874fa0.png" group-title="Movies",Zee Bangla Cinema
 https://prod-linear-media.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
+
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/amc-1080p-95485d9836.png" channel-id="AMC.us" tvg-country="US" tvg-language="eng" group-title="Backup",AMC
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.Action.Hollywood.Movies.plex" tvg-name="Action Hollywood Movies" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/action-hollywood-movies.png" channel-id="plex.tv.Action.Hollywood.Movies.plex" tvg-country="US" tvg-language="eng" group-title="Backup",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #----------------------------
 # Documentary / International
@@ -357,13 +378,13 @@ https://prod-linear-media.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u
 https://prod-linear-media.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
 
 #EXTINF:-1 tvg-id="AS6s-JQBv9knK3AHDTZb" tvg-logo="https://assets-prod.services.toffeelive.com/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp" group-title="Science Fiction",Discovery Science
-https://prod-linear-media.toffeelive.com/cdn/live/discovery_science/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
+https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="KC6x-JQBv9knK3AHqjYc" tvg-logo="https://assets-prod.services.toffeelive.com/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp" group-title="Adventure",Discovery HD
 https://prod-linear-media.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
 
 #EXTINF:-1 tvg-id="KS6x-JQBv9knK3AHwDZy" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Adventure",Discovery
-https://prod-linear-media.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Documentary",History
 http://202.70.146.135:8000/play/a065/index.m3u8
@@ -384,7 +405,7 @@ http://202.70.146.135:8000/play/a04o/index.m3u8
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary",Sony BBC Earth
-http://202.70.146.135:8000/play/a067/index.m3u8
+http://103.185.24.134:3001/SONY-BBC/index.m3u8
 
 #EXTINF:-1,Animal Planet
 https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
@@ -398,14 +419,14 @@ https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
 #EXTINF:-1,INWILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 
-#EXTINF:-1,INWILD [Backup 1]
+#EXTINF:-1,INWILD 
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 
 #EXTINF:-1,InWonder
 https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 
 #EXTINF:-1,Nat Geo Wild
-http://202.70.146.135:8000/play/a05j/index.m3u8
+http://iptv.prosto.tv:7000/ch83/video.m3u8
 
 #EXTINF:-1,Travel XP HD
 http://103.159.180.34:5001/live/562.m3u8
