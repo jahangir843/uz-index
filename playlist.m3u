@@ -380,6 +380,15 @@ https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="Movies", Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
+#EXTINF:-1 group-title="Movies", Turkish Dramas 3 HD IL
+http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/14220/index.m3u8
+
+#EXTINF:-1 group-title="Movies", Turkish Dramas 2 HD IL
+http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/14208/index.m3u8
+
+#EXTINF:-1 group-title="Movies", Turkish Dramas Plus HD IL
+http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/14207/index.m3u8
+
 #----------------------------
 # Documentary / International
 #----------------------------
@@ -402,7 +411,7 @@ https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 https://tvsen6.aynaott.com/tlc_hd/index.m3u8?e=1784102621&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=032b2c039214b5eb81d1d06aac66a512
 
 #EXTINF:-1 group-title="Documentary", Travel XP
-http://202.70.146.135:8000/play/a04o/index.m3u8
+http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/20031/index.m3u8
 
 #EXTINF:-1 group-title="Documentary", Love Nature
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
@@ -497,26 +506,17 @@ https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4
 #EXTINF:-1 group-title="Pakistan", ARY Digital
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ARYDIGITAL/ARYDIGITAL.isml/ARYDIGITAL.m3u8
 
-#EXTINF:-1 group-title="Pakistan", ARY News
-https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
-
 #EXTINF:-1 group-title="Pakistan", Aaj News
 https://live.aaj.tv/Live-TV/Aaj-TV/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan", Samaa TV
 https://live.samaa.tv/hls/samaatv/playlist.m3u8
 
-#EXTINF:-1 group-title="Pakistan", Geo News
-https://stream.outsider.ne/GeoNews/index.m3u8
-
 #EXTINF:-1 group-title="Pakistan", Geo Entertainment
 https://stream.outsider.ne/GeoEntertainment/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan", PTV Home
 https://flussonic.defineatoz.com/PTV/index.m3u8
-
-#EXTINF:-1 group-title="Pakistan", PTV News
-https://str1.ptv.com.pk/PTVNews/playlist.m3u8
 
 #EXTINF:-1 group-title="Pakistan", Urdu 1
 https://cdn.urdu1.tv/urdu1.m3u8
@@ -572,6 +572,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="Sports", ESPN
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
+#EXTINF:-1 group-title="Sports", Fox Sports Racing US
+http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/19144/index.m3u8
+
 #----------------------------
 # News
 #----------------------------
@@ -605,9 +608,34 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="News", BBC News
 https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
 
+#EXTINF:-1 group-title="News", PTV News
+http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/32058/index.m3u8
+
+#EXTINF:-1 group-title="News", Geo News
+http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/32062/index.m3u8
+
+#EXTINF:-1 group-title="News", ARY News
+http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/32066/index.m3u8
+
 #----------------------------
 # Lifestyle
 #----------------------------
 
 #EXTINF:-1 group-title="Lifestyle", Fashion TV
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+
+#EXTINF:-1 group-title="Lifestyle", FX Life HD
+http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/14003/index.m3u8
+
+#EXTINF:0,World Fashion Channel orig
+http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/9287/index.m3u8
+
+#EXTINF:0,
+http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/9288/index.m3u8
+
+#EXTINF:0,
+http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/9292/index.m3u8
+
+#EXTINF:0,
+http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/9294/index.m3u8
+
