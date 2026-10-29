@@ -3,8 +3,6 @@
 #----------------------------
 # Bangla TV
 #----------------------------
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jkbGrhC8/jgjgg.jpg" group-title="Bangla",Toffee TV
-https://prod-linear-media.toffeelive.com/cdn/live/toffee_drama/1080/1080.m3u8
 
 #EXTINF:-1 group-title="Bangla",BTV
 https://rangdhonutvlive.indiansserials.com/tracks-v1a1/mono.ts.m3u8
@@ -133,7 +131,7 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TMRR9f9s/r11.jpg" group-title="Bangla", Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
-#EXTINF:-1,Green TV
+#EXTINF:-1 tvg-logo=" group-title="Bangla", Green TV
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mx1DgRX3/sony-ath.png" group-title="Bangla",Sony AATH
