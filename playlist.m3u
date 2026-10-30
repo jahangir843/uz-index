@@ -1,9 +1,7 @@
 #EXTM3U
-
 #----------------------------
 # Bangla TV
 #----------------------------
-
 #EXTINF:-1 group-title="Bangla", BTV
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
 
@@ -103,6 +101,9 @@ http://tvsen5.aynascope.net/RtvHD/index.m3u8
 #EXTINF:-1 group-title="Bangla", Somoy TV
 https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Bangla", Nexus TV
+https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
+
 #EXTINF:-1 group-title="Bangla", T Sports
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
@@ -149,9 +150,6 @@ https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:-1 group-title="Bangla", Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
-#EXTINF:-1 group-title="Bangla", Nexus TV
-https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
-
 #EXTINF:-1 group-title="Bangla", Zee Bangla HD
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
@@ -168,10 +166,7 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla", Jalsha Movies
-http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
-
-#EXTINF:-1 group-title="Bangla", Sangeet Bangla
-http://14.96.244.82:5001/live/740.m3u8
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
 
 #EXTINF:-1 group-title="Bangla", Star Bangla
 http://103.151.60.162:2122/play/a0f5/index.m3u8
@@ -182,15 +177,18 @@ https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnt
 #EXTINF:-1 group-title="Bangla", Channel 16
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Bangla", Sun Bangla HD
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://cdn.devm3u.top/server1/sunbangla.m3u8
+
 #----------------------------
 # Hindi / Indian General
 #----------------------------
-
 #EXTINF:-1 group-title="Hindi", SONY HD
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_hd.m3u8
 
 #EXTINF:-1 group-title="Hindi", SONY SAB HD
-http://103.151.60.162:2122/play/a01q/index.m3u8
+https://stream.ottplus.live/live/sub_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Hindi", SONY PAL
 http://59.103.38.46:8000/play/a0ac/index.m3u8
@@ -261,6 +259,8 @@ https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 #----------------------------
 # Music
 #----------------------------
+#EXTINF:-1 group-title="Bangla", Sangeet Bangla
+https://cdn.devm3u.top/server1/sangeetbangla.m3u8
 
 #EXTINF:-1 group-title="Music", Dhoom Music Bangla
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
@@ -272,7 +272,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
 
 #EXTINF:-1 group-title="Music", MTV
-https://tvsen6.aynaott.com/mtv/index.m3u8?e=1784102610&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b99f4b905260714794250d1410a936a2
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
 #EXTINF:-1 group-title="Music", B4U Music
 https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
@@ -346,10 +346,15 @@ http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 group-title="Kids", Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Kids", Sonic
+http://103.185.24.134:3001/SONIC/index.m3u8
+
+#EXTINF:-1 group-title="Kids", GOPAL BHAR 
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+
 #----------------------------
 # Movies
 #----------------------------
-
 #EXTINF:-1 group-title="Movies", Colors Bangla Cinema
 http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
 
@@ -379,19 +384,6 @@ https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="Movies", Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies", Turkish Dramas 3 HD IL
-http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/14220/index.m3u8
-
-#EXTINF:-1 group-title="Movies", Turkish Dramas 2 HD IL
-http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/14208/index.m3u8
-
-#EXTINF:-1 group-title="Movies", Turkish Dramas Plus HD IL
-http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/14207/index.m3u8
-
-#EXTINF:-1 group-title="Movies", India Talkies
-https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8
-
 
 #----------------------------
 # Documentary / International
@@ -624,22 +616,8 @@ http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/32066/index.m3u8
 #----------------------------
 # Lifestyle
 #----------------------------
-
 #EXTINF:-1 group-title="Lifestyle", Fashion TV
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
-#EXTINF:-1 group-title="Lifestyle", FX Life HD
-http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/14003/index.m3u8
 
-#EXTINF:0,World Fashion Channel orig
-http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/9287/index.m3u8
-
-#EXTINF:0,
-http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/9288/index.m3u8
-
-#EXTINF:0,
-http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/9292/index.m3u8
-
-#EXTINF:0,
-http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/9294/index.m3u8
 
