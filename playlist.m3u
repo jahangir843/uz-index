@@ -5,6 +5,9 @@
 #EXTINF:-1 group-title="Bangla", BTV
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
 
+#EXTINF:-1 group-title="Bangla", BTV CTG
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="Bangla", Sangsad TV
 https://rangdhonutvlive.indiansserials.com/sangsad/tracks-v1a1/mono.ts.m3u8
 
@@ -69,7 +72,7 @@ https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", GTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8?nimblesessionid=1297393797
 
 #EXTINF:-1 group-title="Bangla", Jamuna TV
 https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
@@ -96,7 +99,7 @@ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", RTV
-http://tvsen5.aynascope.net/RtvHD/index.m3u8
+https://tvsen5.aynaott.com/RtvHD/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Bangla", Somoy TV
 https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
@@ -138,8 +141,11 @@ https://app.ncare.live/live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Bangla", Bangla TV
 http://116.204.149.16/banglatv/index.m3u8
 
-#EXTINF:-1 group-title="Bangla", Bangla Jago TV
-http://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
+#EXTINF:-1 group-title="Bangla", Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8?nimblesessionid=1297319921
+
+#EXTINF:-1 group-title="Bangla", Jalsha Bangla TV
+https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 
 #EXTINF:-1 group-title="Bangla", Rupashi Bangla TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
@@ -260,7 +266,7 @@ https://manatv.akamaized.net/live/090823/smil:ristheyamerica.smil/playlist.m3u8#
 # Music
 #----------------------------
 #EXTINF:-1 group-title="Bangla", Sangeet Bangla
-https://cdn.devm3u.top/server1/sangeetbangla.m3u8
+https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Music", Dhoom Music Bangla
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
@@ -309,8 +315,8 @@ https://czrb8vng.ottclub.xyz/live/iptv/AHMQNVLWUTM5PW/6589/index.m3u8#skym3u.dev
 #EXTINF:-1 group-title="Music", Mastiii
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 
-#EXTINF:-1 group-title="Music", Doraemon TV
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Music", Discover Pakistan
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/live-orgin/discoverpakistan.stream/chunks.m3u8?nimblesessionid=1297363899
 
 #EXTINF:-1 group-title="Music", Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
@@ -320,6 +326,9 @@ https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/ts-eu-w1-n2/pla
 
 #EXTINF:-1 group-title="Music", Music India
 https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+
+#EXTINF:-1 group-title="Music", MK Six
+https://mumt06.tangotv.in/qYyB8fXVMKSIX/tracks-v1a1/mono.m3u8
 
 #----------------------------
 # Kids
@@ -382,16 +391,34 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98842.ts
 https://prod-linear-media.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
 
 #EXTINF:-1 group-title="Movies", AMC
-https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/2c76753e-a7e4-48e4-81af-e8412aef4af5/4.m3u8
 
 #EXTINF:-1 group-title="Movies", Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
+#EXTINF:-1 group-title="Movies", Goldmines
+https://streams.tangotv.in/GOLDMINES/ORIGIN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Movies", Pitaara TV
+https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index_5.m3u8
+
+#EXTINF:-1 group-title="Movies", South Station
+https://cc-yw7ztecy8do3q.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/30088616-ff10-4c53-8cba-c2720506964b/4.m3u8
+
+#EXTINF:-1 group-title="Movies", Sparkle Movies
+https://61fc4f1a40a342daa23f92141853b7b4.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_SparkleMovies/8ff8a959-f8ac-4e4d-a64f-caa38a74dbf9/2.m3u8
+
+#EXTINF:-1 group-title="Movies", Pocket Films
+https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/6408f97591ee7861ab0d4839eefdbbee/0.m3u8
+
+#EXTINF:-1 group-title="Movies", Movies Sphere UK
+https://moviesphereuk-samsunguk.amagi.tv/en-vtt/index.m3u8
+
 #----------------------------
 # Documentary / International
 #----------------------------
-#EXTINF:-1 group-title="Documentary", Sony BBC Earth HD
-http://103.185.24.134:3001/SONY-BBC/index.m3u8
+#EXTINF:-1 group-title="Documentary", BBC Earth HD
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/1080p-en-cc/index.m3u8
 
 #EXTINF:-1 group-title="Documentary", Discovery Science
 https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
@@ -403,13 +430,13 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
 https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 group-title="Documentary", National Geographic HD
-https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
+https://tvsen3.aynaott.com/7mm4pwCy/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Documentary", TLC
 https://tvsen6.aynaott.com/tlc_hd/index.m3u8?e=1784102621&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=032b2c039214b5eb81d1d06aac66a512
 
 #EXTINF:-1 group-title="Documentary", Travel XP
-https://premiumtvs.space/live/live/YqXTywueEV/damp2purchase/20622.m3u8#skym3u.dev.m3u8
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/cbdf454a-70ac-41c9-b3fc-6eeab95baf71/2.m3u8
 
 #EXTINF:-1 group-title="Documentary", Love Nature
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
@@ -430,7 +457,7 @@ https://tvsen3.aynaott.com/7hm4TfVp/index.m3u8
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary", InWonder
-https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwonder-samsungau/cb5739176573608c84c33878d1f54182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fbb75a10da6cf5e2011c9c2a41fa83439fd501b3d3d70f83478025a31795c1f98282188be4245293738aa19d71581fbba43bf9eb5cb8dd96683d99622034713f8482a08e85b81b253938d9ecc2be1f937b23450df30619ba1299468872f20330a796932f84d7d4f44a5435aac51b452eb6ecb383f43b71cd0e630cd8af1128ca8c725646db6cd12e6158c2bda310f518cd7bd0b3c3e349643d0a9171a9a284a3a5daac59952485e3fc99364374ae65688970ad8064d725dc37fd804361147a4da39e5ad395997004221ed6ce0e8f532cb0d5ddd7844e239c34521ac970c957005bc9364775f162acc96b22da704acd1e15cf7519cc02f0b127f0e7fce00530ba978761f77de0b80f9da757ff236c1752fda26c6c444a7cc2e72958632e8d16b2a1bf8b1d3e09e2f3c2e9d31369574b707c38cbb3b73ecbf483437b31ce5c216c716a67b50cc466d205094d6efe17dda8066396444609e3b43449557c9cabe0d1d636ab8716ac64a9278683995846264ab81436124385b138/101/1920x1080_6332040/index.m3u8
 
 #EXTINF:-1 group-title="Documentary", Nat Geo Wild
 http://iptv.prosto.tv:7000/ch83/video.m3u8
@@ -466,10 +493,19 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary", Alone
-https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/V00000002/18000/HLS/playlist_vtt_20261013T134051.m3u8
 
 #EXTINF:-1 group-title="Documentary", Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary", History Warefare
+https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Nowwebvtt.m3u8
+
+#EXTINF:-1 group-title="Documentary", Infast
+https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-lifestyle-samsungau/cb5739176573608c84c33878d1f54182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9b0584dd03ff3e7011c9c2a46fa83439fd501b2d6dc5c8315d327a4179b97a28c8219d1e4245293738aa19d71581fbba43bf9eb5cb8dd96683d99622034713f8482a08e85b81b253938d9ecc2be1f937b23450df30619ba1299468872f20330a796932f84d7d4f44a5435aac51b452eb6ecb383f43b71cd0e630cd8af1128ca8c725646db6cd12e6158c2bda310f518cd7bd0b3c3e349643d0a9171a9a284a3a5daac59952485e3fc99364374ae65688970ad8064d725dc37fd804361147a4da39e5ad395997004221ed6ce0e8f532cb0d5ddd7844e239c34521ac970c957005bc9364775f162acc96b22da704acd1e15cf7519cc02f0b127f0e7fce00530ba978761f77de0b80f9da757ff236c1752fda26c6c444a7cc2e72958632e8d16b2a1bf8b1d3e09e2f3c2e9d31369574b707c38cbb3b73ecbf483437b31ce5c216c716a67b50cc466d205094d6efe17dda8066396444609e3b43449557c9caae4d867b73fe666c8b58708a1bc8052b353890cfc4d3d6259dd/59/1920x1080_4716800/index.m3u8
+
+#EXTINF:-1 group-title="Documentary", Outdoor Channel
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/ts-eu-w1-n2/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/cb5739176573608c84c33878d1f54182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aee10f44db3fa0b3011c9c2a41fa83439fd501b38985588343d322a447c995a4d9d71080e4245293738aa19d71581fbba43bf9eb5cb8dd96683d99622034713f8482a08e85b81b253938d9ecc2be1f937b23450df30619ba1299468872f20330a796932f84d7d4f44a5435aac51b452eb6ecb383f43b71cd0e630cd8af1128ca8c725646db6cd12e6158c2bda310f518cd7bd0b3c3e349643d0a9171a9a284a3a5daac59952485e3fc99364374ae65688970ad8064d725dc37fd804361147a4da39e5ad395997004221ed6ce0e8f532cb0d5ddd7844e239c34521ac970c957005bc9364775f162acc96b22da704acd1e15cf7519cc02f0b127f0e7fce00530ba978761f77de0b80f9da757ff236c1752fda26c6c444a7cc2e72958632e8d16b2a1bf8b1d3e09e2f3c2e9d31369574b707c38cbb3b73ecbf483437b31ce5c216c716a67b50cc466d205094d6efe17dda8066396444609e3b43449557c9cabe0d8de36ab8811ac64a9f894f6a3c11ac2a585e55276f76088e8/199/subs-caption-1-eng/subtitle.m3u8
 
 #----------------------------
 # Religion
@@ -573,6 +609,15 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 group-title="Sports", Fox Sports Racing US
 http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/19144/index.m3u8
 
+#EXTINF:-1 group-title="Sports", Fight Network
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/cb5739176573608c84c33878d1f54182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7e55413d96ca3b3011c9c2a40fa83439fd501ea87d7598312d374f740949aa38bd714d1e4245293738aa19d71581fbba43bf9eb5cb8dd96683d99622034713f8482a08e85b81b253938d9ecc2be1f937b23450df30619ba1299468872f20330a796932f84d7d4f44a5435aac51b452eb6ecb383f43b71cd0e630cd8af1128ca8c725646db6cd12e6158c2bda310f518cd7bd0b3c3e349643d0a9171a9a284a3a5daac59952485e3fc99364374ae65688970ad8064d725dc37fd804361147a4da39e5ad395997004221ed6ce0e8f532cb0d5ddd7844e239c34521ac970c957005bc9364775f162acc96b22da704acd1e15cf7519cc02f0b127f0e7fce00530ba978761f77de0b80f9da757ff236c1752fda26c6c444a7cc2e72958632e8d16b2a1bf8b1d3e09e2f3c2e9d31369574b707c38cbb3b73ecbf483437b31ce5c216c716a67b50cc466d205094d6efe17dda8066396444609e3b43449557c9cabe0d8d236ab8e12ac64a96896ace7702ac935f444cb25b7bf8493/195/1920x1080_4300000/index.m3u8
+
+#EXTINF:-1 group-title="Sports", NHL Network
+https://nhl-firetv.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 group-title="Sports", WOF 1
+https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/cb5739176573608c84c33878d1f24982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9e70c45dc38a8b0011c9c2a40fa83439fd501b3d5d60e834ad777a01c9a91a28ed543d3e4245293738aa19d71581fbba43bf9eb5cb8dd96683d99622034713f8482a08e85b81b253938d9ecc2be1f937b23450df30619ba1299468872f20330a796932f84d7d4f44a5435aac51b452eb6ecb383f43b71cd0e630cd8af1128ca8c725646db6cd12e6158c2bda310f518cd7bd0b3c3e349643d0a9171a9a284a3a5daac59952485e3fc99364374ae65688970ad8064d725dc37fd804361147a4da39e5ad395997004221ed6ce0e8f532cb0d5ddd7844e239c34521ac970c957005bc9364775f162acc96b22da704acd1e15cf7519cc02f0b127f0e7fce00530ba978761f77de0b80f9da757ff236c1752fda26c6c444a7cc2e72958632e8d16b2a1bf8b1d3e09e2f3c2e9d31369574b707c38cbb3b73ecbf483437b31ce5c216c716a67b50cc466d205094d6efe17dda8066396444609e3b43449557c9cabe0d7d636abcd1dac64a9d23630cb6461a9483f3d1cefeaed1b51/161/1920x1080_6046040/index.m3u8
+
 #----------------------------
 # News
 #----------------------------
@@ -613,7 +658,7 @@ http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/32058/index.m3u8
 http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/32062/index.m3u8
 
 #EXTINF:-1 group-title="News", ARY News
-https://arynewsm.aryzap.com/live/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8#skym3u.dev.m3u8
+https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/ARYNewsH264_1080p.m3u8?isSubM3u8=1
 
 #----------------------------
 # Lifestyle
@@ -622,4 +667,4 @@ https://arynewsm.aryzap.com/live/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
 #EXTINF:-1 group-title="Lifestyle", Fashion One
-https://b01c02nl.mediatriple.net/live/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8#skym3u.dev.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/chunklist.m3u8
