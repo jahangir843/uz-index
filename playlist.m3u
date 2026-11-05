@@ -133,7 +133,7 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 group-title="Bangla", Green TV
-http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/index.m3u8
+https://app.ncare.live/live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8#skym3u.dev.m3u8
 
 #EXTINF:-1 group-title="Bangla", Bangla TV
 http://116.204.149.16/banglatv/index.m3u8
@@ -164,9 +164,6 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 
 #EXTINF:-1 group-title="Bangla", Enterr 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-
-#EXTINF:-1 group-title="Bangla", Jalsha Movies
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
 
 #EXTINF:-1 group-title="Bangla", Star Bangla
 http://103.151.60.162:2122/play/a0f5/index.m3u8
@@ -233,7 +230,7 @@ https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
 http://103.151.60.162:2122/play/a0fo/index.m3u8
 
 #EXTINF:-1 group-title="Hindi", Zee Anmol
-https://prod-linear-media.toffeelive.com/cdn/live/zee_anmol/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
+https://rgkkw.live/live/live/1Aoen7elp5/IgMJ60tmAa/203.m3u8#skym3u.dev.m3u8
 
 #EXTINF:-1 group-title="Hindi", Zee Cafe
 https://prod-linear-media.toffeelive.com/cdn/live/zee_cafe_hd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
@@ -255,6 +252,9 @@ https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
 
 #EXTINF:-1 group-title="Hindi", Sony Entertainment TV
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
+
+#EXTINF:-1 group-title="Hindi", Color Reshtey
+https://manatv.akamaized.net/live/090823/smil:ristheyamerica.smil/playlist.m3u8#skym3u.dev.m3u8
 
 #----------------------------
 # Music
@@ -305,8 +305,7 @@ https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 group-title="Music", Zing
-https://prod-linear-media.toffeelive.com/cdn/live/zing_sd/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
-
+https://czrb8vng.ottclub.xyz/live/iptv/AHMQNVLWUTM5PW/6589/index.m3u8#skym3u.dev.m3u8
 #EXTINF:-1 group-title="Music", Mastiii
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 
@@ -355,6 +354,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #----------------------------
 # Movies
 #----------------------------
+#EXTINF:-1 group-title="Bangla", Jalsha Movies
+https://box.bbaria.net:8083/live/Jalsha_Movie/tracks-v1a1/mono.m3u8#skym3u.dev.m3u8
+
 #EXTINF:-1 group-title="Movies", Colors Bangla Cinema
 http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
 
@@ -407,7 +409,7 @@ https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 https://tvsen6.aynaott.com/tlc_hd/index.m3u8?e=1784102621&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=032b2c039214b5eb81d1d06aac66a512
 
 #EXTINF:-1 group-title="Documentary", Travel XP
-http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/20031/index.m3u8
+https://premiumtvs.space/live/live/YqXTywueEV/damp2purchase/20622.m3u8#skym3u.dev.m3u8
 
 #EXTINF:-1 group-title="Documentary", Love Nature
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
@@ -611,7 +613,7 @@ http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/32058/index.m3u8
 http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/32062/index.m3u8
 
 #EXTINF:-1 group-title="News", ARY News
-http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/32066/index.m3u8
+https://arynewsm.aryzap.com/live/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8#skym3u.dev.m3u8
 
 #----------------------------
 # Lifestyle
@@ -619,5 +621,5 @@ http://ftcxowga.zyntras.top/iptv/XM896GLGDHY76Q/32066/index.m3u8
 #EXTINF:-1 group-title="Lifestyle", Fashion TV
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
-
-
+#EXTINF:-1 group-title="Lifestyle", Fashion One
+https://b01c02nl.mediatriple.net/live/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8#skym3u.dev.m3u8
