@@ -414,6 +414,9 @@ https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca14134
 #EXTINF:-1 group-title="Movies", Movies Sphere UK
 https://moviesphereuk-samsunguk.amagi.tv/en-vtt/index.m3u8
 
+#EXTINF:-1 group-title="Movies", The Movie Club
+https://d2tiq0lnb179mp.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gp7rpz72nscfl/2a849a9c-960c-4d2c-a835-5f35b11574f5/4.m3u8
+
 #----------------------------
 # Documentary / International
 #----------------------------
