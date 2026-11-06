@@ -68,8 +68,11 @@ https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
 #EXTINF:-1 group-title="Bangla", Enter TV
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Bangla", Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/chunks.m3u8?nimblesessionid=1298935079
+
 #EXTINF:-1 group-title="Bangla", Global TV
-https://stream.ottplus.live/live/global_tv_abr/index.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8?nimblesessionid=1298933465
 
 #EXTINF:-1 group-title="Bangla", GTV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8?nimblesessionid=1297393797
@@ -109,7 +112,6 @@ https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", T Sports
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
-https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", Independent TV
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
@@ -136,7 +138,7 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 group-title="Bangla", Green TV
-https://app.ncare.live/live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8#skym3u.dev.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8?nimblesessionid=1298927793
 
 #EXTINF:-1 group-title="Bangla", Bangla TV
 http://116.204.149.16/banglatv/index.m3u8
@@ -181,7 +183,6 @@ https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnt
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla", Sun Bangla HD
-#EXTVLCOPT:http-user-agent=DevM3U-Player
 https://cdn.devm3u.top/server1/sunbangla.m3u8
 
 #----------------------------
@@ -316,7 +317,7 @@ https://czrb8vng.ottclub.xyz/live/iptv/AHMQNVLWUTM5PW/6589/index.m3u8#skym3u.dev
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 
 #EXTINF:-1 group-title="Music", Discover Pakistan
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/live-orgin/discoverpakistan.stream/chunks.m3u8?nimblesessionid=1297363899
+https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream2/chunks.m3u8
 
 #EXTINF:-1 group-title="Music", Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
@@ -475,7 +476,7 @@ https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 https://ptravelhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Documentary", Discovery Turbo
-https://prod-linear-media.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8?edge-cache-token=Expires=1792591230~Starts=1792587630~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=CrAjir93qyGjx_TWFHSQdI4hInR67YJk2LwKtT9gzzUqw5jk4kaq6FMWbctVzMaWxkYKqVT0y0mVZUoOwF4SCg
+https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/live/discovery_turbo_480/chunks.m3u8?nimblesessionid=254004958
 
 #EXTINF:-1 group-title="Documentary", TLC
 https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
