@@ -72,15 +72,14 @@ https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla", Global TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8?nimblesessionid=1298933465
-
+https://go.skym3u.dev/live/dc9166/4b3133a82d799fe682061e6957a59061da9e633c75b1a6d9fb899a2458251d95f5624d8de9b4109811ea14b78832b9e6f474e9c25036ad55a3970f3cd4668c1e365ca272d3d870bf2eee606e6943b337bd5cd3c0b6bcf5646c714143c47ea8b2831166f7.m3u8?s=e9a759&id=82ae.m3u
 #EXTINF:-1 group-title="Bangla", GTV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8?
 
 #EXTINF:-1 group-title="Bangla", Jamuna TV
 https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
 
-#EXTINF:-1 group-title="Bangla", Sananda TV
+#EXTINF:-1 group-title="Bangla", Sun Bangla
 http://27.124.71.27/Sun_Bangla/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", Rongeen TV
@@ -181,9 +180,6 @@ https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnt
 
 #EXTINF:-1 group-title="Bangla", Channel 16
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Bangla", Sun Bangla HD
-https://cdn.devm3u.top/server1/sunbangla.m3u8
 
 #----------------------------
 # Hindi / Indian General
@@ -313,11 +309,9 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 group-title="Music", Zing
 https://czrb8vng.ottclub.xyz/live/iptv/AHMQNVLWUTM5PW/6589/index.m3u8#skym3u.dev.m3u8
+
 #EXTINF:-1 group-title="Music", Mastiii
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
-
-#EXTINF:-1 group-title="Music", Discover Pakistan
-https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream2/chunks.m3u8
 
 #EXTINF:-1 group-title="Music", Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
@@ -345,9 +339,6 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Kids", Nick Jr.
 http://202.70.146.135:8000/play/a02n/index.m3u8
-
-#EXTINF:-1 group-title="Kids", Sony Yay
-http://103.165.93.31:8095/sonyYay/index.m3u8
 
 #EXTINF:-1 group-title="Kids", Nick Bangla
 http://live.balajibroadband.com:3500/live/1341.m3u8
@@ -380,7 +371,7 @@ https://prod-linear-media.toffeelive.com/cdn/live/andpicture_hd/576/576.m3u8
 https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies", Rakuten Movies
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+https://go.skym3u.dev/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/392089d2-cc27-4bed-a319-f4e4411ee361/5.m3u8
 
 #EXTINF:-1 group-title="Movies", HBO
 https://tvsen7.aynaott.com/hbo2/index.m3u8?e=1784102613&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=40fc8084b5fc57624decaf17689aa4e3
@@ -398,25 +389,34 @@ https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies", Goldmines
-https://streams.tangotv.in/GOLDMINES/ORIGIN/tracks-v1a1/mono.m3u8
+https://go.skym3u.dev/live/dc9166/809356f20dbb546df59a3826528bf17f5fb9c9838519afa544ce659d41ac151c4746a2fe8e932759511b7009de5ebda33428c31763f9b9c66928dce4fc937ac4894e5941223a67dc5b33c32d7a1a6c2b741c4055eeaae096e8a6b3e33e.m3u8?s=e9a759&id=82ae.m3u
 
 #EXTINF:-1 group-title="Movies", Pitaara TV
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index_5.m3u8
 
 #EXTINF:-1 group-title="Movies", South Station
-https://cc-yw7ztecy8do3q.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/30088616-ff10-4c53-8cba-c2720506964b/4.m3u8
+https://go.skym3u.dev/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/97071253-e61a-452b-b8dd-f18a4f159c04/4.m3u8
 
 #EXTINF:-1 group-title="Movies", Sparkle Movies
-https://61fc4f1a40a342daa23f92141853b7b4.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_SparkleMovies/8ff8a959-f8ac-4e4d-a64f-caa38a74dbf9/2.m3u8
+https://go.skym3u.dev/live/dc9166/9ae42933d0e0086450380e9c6f044e25b05d4e618d21156fcd75d4e4baf30b591696ba4e39093268afb2b592d07d07e6c0b5ca38096e3aa226e619b4d43b915070e1b143e2e848814504714eee97ecebfc1f652b11ef0f2dfdda8b448afa3198844976f451445d8ae2d019533ac9d375009f811a1b6953633ea5dba8cdfe83bb2101e18c59ab6b456e06b76886c4270a433d407ff749c5be98d58c1f6a208449277b9bb5cd5980531d14668a187b5a6962bda2ff0f0498ca0589c5dac219f34507127e57e6d122403b1ddc59f85893b983428080f32bd71b8c29cfd2a5709fff5e02.m3u8?s=e9a759&id=82ae.m3u
 
 #EXTINF:-1 group-title="Movies", Pocket Films
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/6408f97591ee7861ab0d4839eefdbbee/0.m3u8
 
 #EXTINF:-1 group-title="Movies", Movies Sphere UK
-https://moviesphereuk-samsunguk.amagi.tv/en-vtt/index.m3u8
+https://go.skym3u.dev/live/dc9166/en-vtt/index.m3u8
 
 #EXTINF:-1 group-title="Movies", The Movie Club
 https://d2tiq0lnb179mp.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gp7rpz72nscfl/2a849a9c-960c-4d2c-a835-5f35b11574f5/4.m3u8
+
+#EXTINF:-1 group-title="Movies", Sony One Action
+https://go.skym3u.dev/live/dc9166/06aa79ab0cb83387455fa3e7d518a3f7af0263f53ce9eefb7e4ae43ae1b8f1537360d33ecaa6374295483f9ce6999e1e67b4bb8c83ef9c369b6e163367ed4e39205ac1e0743472f679285a16f109069a6cb9925007eb33666c1b73e0950520c6fa8b6e992d74984c406bdb4d2ecbd263bc4ec28f902106759cbb3b2ef8edf2039e8832e309eecbf72a5c7decad7186309d89499bb1af9827e7b930aa03b75ccff0b892c1473f1856ca8727c1a274ae3a2b4962afe05a1e3e3c364200ec5d89193182c8ee15aa0de0d86166eeb01ae1bcc084879070c005a54aeb999e0a57bffaef3a918db5134898e039cd3473ff2c.m3u8?s=e9a759&id=82ae.m3u
+
+#EXTINF:-1 group-title="Movies", Movie Thriller
+https://shd-amg-fast.edgenextcdn.net/tx012/1080p-d/index.m3u8
+
+#EXTINF:-1 group-title="Movies", NH Bolly Fix
+https://go.skym3u.dev/live/dc9166/dedc21a692839444b9d2baaf7943096c8e9c1270db4c3b3e311b968b8337ebc864e685b493f42da1aba229dd04108a8fe31a7a0164038cddf8a16cc1736b840f96e1a7ad353f70b45fadc9c3cefa1b28592db75b83fb89c12bdfbe68d4b4b9e93a3f10168b5240443aab3f3f72041b93c3c10a57ea46faee7ec9f0ccd44bae08ac3aee4b96e5f9a197ad89ee634b8d9b0ae02dc045afb2518bf18a6cb94fb836f29cf1c9435f87bc780999860ca28e0e72448ac3.m3u8?s=e9a759&id=82ae.m3u
 
 #----------------------------
 # Documentary / International
@@ -556,14 +556,14 @@ https://stream.outsider.ne/GeoEntertainment/index.m3u8
 #EXTINF:-1 group-title="Pakistan", PTV Home
 https://flussonic.defineatoz.com/PTV/index.m3u8
 
-#EXTINF:-1 group-title="Pakistan", Urdu 1
-https://cdn.urdu1.tv/urdu1.m3u8
-
 #EXTINF:-1 group-title="Pakistan", HUM Masala
 https://j6nfugukcl.gpcdn.net/tile_1/master.m3u8
 
 #EXTINF:-1 group-title="Pakistan", HUM Sitaray
 https://j6nfugukcl.gpcdn.net/tile_2/master.m3u8
+
+#EXTINF:-1 group-title="Music", Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream2/chunks.m3u8
 
 #----------------------------
 # Sports
@@ -621,6 +621,9 @@ https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 group-title="Sports", WOF 1
 https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/cb5739176573608c84c33878d1f24982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9e70c45dc38a8b0011c9c2a40fa83439fd501b3d5d60e834ad777a01c9a91a28ed543d3e4245293738aa19d71581fbba43bf9eb5cb8dd96683d99622034713f8482a08e85b81b253938d9ecc2be1f937b23450df30619ba1299468872f20330a796932f84d7d4f44a5435aac51b452eb6ecb383f43b71cd0e630cd8af1128ca8c725646db6cd12e6158c2bda310f518cd7bd0b3c3e349643d0a9171a9a284a3a5daac59952485e3fc99364374ae65688970ad8064d725dc37fd804361147a4da39e5ad395997004221ed6ce0e8f532cb0d5ddd7844e239c34521ac970c957005bc9364775f162acc96b22da704acd1e15cf7519cc02f0b127f0e7fce00530ba978761f77de0b80f9da757ff236c1752fda26c6c444a7cc2e72958632e8d16b2a1bf8b1d3e09e2f3c2e9d31369574b707c38cbb3b73ecbf483437b31ce5c216c716a67b50cc466d205094d6efe17dda8066396444609e3b43449557c9cabe0d7d636abcd1dac64a9d23630cb6461a9483f3d1cefeaed1b51/161/1920x1080_6046040/index.m3u8
+
+#EXTINF:-1 group-title="Sports", Tampad
+https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 
 #----------------------------
 # News
