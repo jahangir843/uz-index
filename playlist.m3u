@@ -150,7 +150,7 @@ https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla", Sony AATH
-https://rangdhonulivetv.indiansserials.com/SONYYAATH/tracks-v1a1/mono.ts.m3u8
+https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/576/576.m3u8?hdntl=Expires=1795715232~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0ueCT15ijZ6QvFE6ff1yNvWZP4X3nvEKhM1FO-iQSQAYu_-S-Ykrpt0gEaFfhfJ3x18R7JuMN6ZtSAyVz4TZzeUA&nocache=1795628848676
 
 #EXTINF:-1 group-title="Bangla", Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
