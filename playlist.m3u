@@ -3,7 +3,7 @@
 # Bangla TV
 #----------------------------
 #EXTINF:-1 group-title="Bangla", BTV
-https://live.btvlive.gov.bd/live/2791ace0-d484-48bf-a7a8-614455c32ec2/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
+https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8
 
 #EXTINF:-1 group-title="Bangla", BTV CTG
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.ts.m3u8
@@ -356,6 +356,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #----------------------------
 # Movies
 #----------------------------
+#EXTINF:-1 group-title="Bangla", Zee Cinema
+https://j6nfugukcl.gpcdn.net/tile_5/1080p.m3u8
+
 #EXTINF:-1 group-title="Bangla", Jalsha Movies
 https://box.bbaria.net:8083/live/Jalsha_Movie/tracks-v1a1/mono.m3u8#skym3u.dev.m3u8
 
