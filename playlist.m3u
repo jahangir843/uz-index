@@ -543,7 +543,7 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 https://j6nfugukcl.gpcdn.net/tile_3/1080p.m3u8
 
 #EXTINF:-1 group-title="Pakistan", ARY Q TV
-https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_1080p.m3u8
+https://go.skym3u.dev/live/ca2c/95b44e5525e548e2e96f7a91fc654d705d6ac6a5c5ff5043acd965eaead1c8ae1443f0ef81ce386d5ec805d936d50dc6aff95afb72edcbd202533cb9c1e067c87e20699a61955aca17855a4bd5d54df0065b7ce30e5d5885d0185ed18068ea367cf4a14e8c9f80bee9485ca935d0d6d997d2cfc934f668e06f445f18a91edaaae1cafde5f46d8b6b655a40adf4a9c8f9ed1a9d36.m3u8?s=2b11&id=fgs3fc.m3u
 
 #EXTINF:-1 group-title="Pakistan", ARY Digital
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ARYDIGITAL/ARYDIGITAL.isml/ARYDIGITAL.m3u8
