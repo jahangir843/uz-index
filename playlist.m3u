@@ -24,7 +24,7 @@ https://tvsen6.aynaott.com/da6WMXAk/tracks-v1a1/mono.ts.m3u8
 https://tvsen5.aynaott.com/banglavision/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", Bijoy TV
-https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Bangla", Boishakhi TV
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
@@ -33,7 +33,7 @@ https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", Channel 24
-https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Bangla", Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
@@ -70,6 +70,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 group-title="Bangla", Global TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Bangla", GTV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8?
 
@@ -92,7 +93,7 @@ https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", News 24 TV
-https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Bangla", NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
@@ -110,7 +111,7 @@ https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Bangla", Independent TV
-https://live.indiansserials.com/proxy-stream/dc1d8c3eda2144e0bad2c85b5e233d5e/playlist.m3u8?t=ECGXMNaOZDw_to0_9lOLMvH8wiErjXA0SB1tWFPcx_kiPTJpusR9MILoqgi2yMiWdIem-g7S3BNK_raR1ruFkOOp6y3uCxljrq3ojTk2HU07dIX7rzPxsR52kaqis-gh7yeF9oq9
+https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Bangla", NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
@@ -325,6 +326,9 @@ https://mumt06.tangotv.in/qYyB8fXVMKSIX/tracks-v1a1/mono.m3u8
 #----------------------------
 # Kids
 #----------------------------
+#EXTINF:-1 group-title="Kids", Disney
+https://tvsen7.aynaott.com/disney/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="Kids", Cartoon Network
 https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
 
