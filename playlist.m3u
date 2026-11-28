@@ -198,13 +198,13 @@ https://stream.ottplus.live/live/sub_hd_abr/index.m3u8
 http://59.103.38.46:8000/play/a0ac/index.m3u8
 
 #EXTINF:-1 group-title="Hindi", Sony YAY
-http://103.165.93.31:8095/sonyYay/index.m3u8
+https://prod-linear-media.toffeelive.com/cdn/live/sonyyay/576/576.m3u8?hdntl=Expires=1795974048~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0udjtZ4k647I6_ukX-ROdIt7TL2j5PDBwpz2_kfZy8UZYqPLO5cEgPt-xv_d8uQIisXHNkvd2aXyOxpaf3o5zMYF&nocache=1795887649033
 
 #EXTINF:-1 group-title="Hindi", Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Hindi", Sony Max 2
-https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
+https://prod-linear-media.toffeelive.com/cdn/live/sonymax_2/576/576.m3u8?hdntl=Expires=1795973953~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0ucZSWDJxWYyCob1o2X91waPvA9whCt6OIzhiU6nKpYeO6wbMzT88Qm_Es-3Q3PfViYsE_YDTGdx4nlre0UUciwE&nocache=1795887559047
 
 #EXTINF:-1 group-title="Hindi", Star Gold
 http://103.114.11.37:8081/StarGold/index.m3u8
