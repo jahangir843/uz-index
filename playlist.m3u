@@ -84,7 +84,7 @@ http://27.124.71.27/Sun_Bangla/index.m3u8
 https://prod-linear-media.toffeelive.com/cdn/live/toffee_drama/1080/1080.m3u8?hdntl=Expires=1795973637~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0udaONYe54ewGOIPUb5Fg-g1Efmoew65RPb9GX50n3K8Pp900ZoJEvJXgIGfXbisb8OCnTzZg7Mbb9dBtw2hHDAH&nocache=1795887243167
 
 #EXTINF:-1 group-title="Bangla", Rongeen TV
-https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+https://fta.ektv.in/live/202/master.m3u8
 
 #EXTINF:-1 group-title="Bangla", Maasranga TV
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8
@@ -153,7 +153,7 @@ https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla", Sony AATH
-https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/576/576.m3u8?hdntl=Expires=1795972608~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0ufWWmp86_SmAT1XpkCg-cEzWT7o6PseZtoUfdFkwlhOHEZMzU2qeMUQsOlkrDEnKkGUX6Fuwr9KLapQxr7aFUMI&nocache=1795886208559
+https://drk6xq0vhn.gpcdn.net/hls/sony_c1kn7tv9qm3lx5w_720/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
@@ -186,10 +186,19 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92
 # Hindi / Indian General
 #----------------------------
 #EXTINF:-1 group-title="Hindi", Goldmines
-https://mumt04.tangotv.in/m18aqlK4GOLDMINES/tracks-v1a1/mono.m3u8
+https://cdn.pishow.tv/ott/live/1459/master.m3u8
+
+#EXTINF:-1 group-title="Hindi", Goldmines Bollywood
+https://samitaorigin.tangotv.in/GOLDMINESBOLLYWOOD/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 group-title="Hindi", Goldmines Movies
+https://cdn.pishow.tv/ott/live/1461/master.m3u8
 
 #EXTINF:-1 group-title="Hindi", SONY HD
 https://prod-linear-media.toffeelive.com/cdn/live/sonyentertainmnt_hd/576/576.m3u8
+
+#EXTINF:-1 group-title="Hindi", Star Maa Movies
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 
 #EXTINF:-1 group-title="Hindi", SONY SAB HD
 https://stream.ottplus.live/live/sub_hd_abr/index.m3u8
@@ -201,7 +210,7 @@ http://59.103.38.46:8000/play/a0ac/index.m3u8
 https://prod-linear-media.toffeelive.com/cdn/live/sonyyay/576/576.m3u8?hdntl=Expires=1795974048~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0udjtZ4k647I6_ukX-ROdIt7TL2j5PDBwpz2_kfZy8UZYqPLO5cEgPt-xv_d8uQIisXHNkvd2aXyOxpaf3o5zMYF&nocache=1795887649033
 
 #EXTINF:-1 group-title="Hindi", Sony Max
-https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
 
 #EXTINF:-1 group-title="Hindi", Sony Max 2
 https://prod-linear-media.toffeelive.com/cdn/live/sonymax_2/576/576.m3u8?hdntl=Expires=1795973953~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0ucZSWDJxWYyCob1o2X91waPvA9whCt6OIzhiU6nKpYeO6wbMzT88Qm_Es-3Q3PfViYsE_YDTGdx4nlre0UUciwE&nocache=1795887559047
@@ -262,6 +271,9 @@ https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Hindi", Color Reshtey
 https://manatv.akamaized.net/live/090823/smil:ristheyamerica.smil/playlist.m3u8#skym3u.dev.m3u8
+
+#EXTINF:-1 group-title="Hindi", NH BollyFlix
+https://jmp2.uk/stvp-IN46000140Q
 
 #----------------------------
 # Music
@@ -372,7 +384,7 @@ https://prod-linear-media.toffeelive.com/cdn/live/movie_bangla/1080/1080.m3u8?hd
 https://j6nfugukcl.gpcdn.net/tile_5/1080p.m3u8
 
 #EXTINF:-1 group-title="Bangla", Jalsha Movies
-https://box.bbaria.net:8083/live/Jalsha_Movie/tracks-v1a1/mono.m3u8#skym3u.dev.m3u8
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Movies", Colors Bangla Cinema
 http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8
