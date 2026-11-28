@@ -30,7 +30,7 @@ https://prod-linear-media.toffeelive.com/cdn/live/bijoytv/1080/1080.m3u8?hdntl=E
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", Duronto TV
-http://103.135.253.32:8080/DORONTU-TV/index.m3u8
+https://rangdhonulive.samiulislamabhi.workers.dev/duRANTo/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Bangla", Channel 24
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=
@@ -171,7 +171,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 
 #EXTINF:-1 group-title="Bangla", Enterr 10 Bangla
-https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", Star Bangla
 http://103.151.60.162:2122/play/a0f5/index.m3u8
@@ -246,7 +246,7 @@ https://prod-linear-media.toffeelive.com/cdn/live/zee_cafe_hd/576/576.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Hindi", Colors Cineplex
-https://vods2.aynaott.com/hindimovies/index.m3u8
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 
 #EXTINF:-1 group-title="Hindi", SONY PIX HD
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_pix_hd.m3u8
