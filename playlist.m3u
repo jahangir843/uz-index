@@ -24,7 +24,7 @@ https://tvsen6.aynaott.com/da6WMXAk/tracks-v1a1/mono.ts.m3u8
 https://tvsen5.aynaott.com/banglavision/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", Bijoy TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/bijoy00.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=
+https://prod-linear-media.toffeelive.com/cdn/live/bijoytv/1080/1080.m3u8?hdntl=Expires=1795972672~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0ucJpvQxsKZTlt161k-poRyKz6YACYs76wGncAFqU8Bf_UTkmM2Lt7wgkkH0VsBM-uvQMPcF48sn__rK5nfBW_cA&nocache=1795886272088
 
 #EXTINF:-1 group-title="Bangla", Boishakhi TV
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
@@ -132,7 +132,7 @@ https://box.bbaria.net:8083/Nagorik_TV/video.m3u8
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla", Rajdhani TV
-https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+https://prod-linear-media.toffeelive.com/cdn/live/rajdhani_tv/1080/1080.m3u8?hdntl=Expires=1795972513~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0ufAfWVvfQygOgMdXm1xCWNBikmQDZjRKzwrVKo7w8vvwbaOZwvcAGYxsc0GQYp0ZKLVp41gnPGVxiixsJ-tY40K&nocache=1795886118741
 
 #EXTINF:-1 group-title="Bangla", Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
@@ -150,7 +150,7 @@ https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla", Sony AATH
-https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/576/576.m3u8?hdntl=Expires=1795715232~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0ueCT15ijZ6QvFE6ff1yNvWZP4X3nvEKhM1FO-iQSQAYu_-S-Ykrpt0gEaFfhfJ3x18R7JuMN6ZtSAyVz4TZzeUA&nocache=1795628848676
+https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/576/576.m3u8?hdntl=Expires=1795972608~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0ufWWmp86_SmAT1XpkCg-cEzWT7o6PseZtoUfdFkwlhOHEZMzU2qeMUQsOlkrDEnKkGUX6Fuwr9KLapQxr7aFUMI&nocache=1795886208559
 
 #EXTINF:-1 group-title="Bangla", Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
