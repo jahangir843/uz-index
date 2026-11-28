@@ -48,7 +48,7 @@ https://nkafmbewiff.gpcdn.net/tile_7/1080p.m3u8
 https://tvsen5.aynaott.com/tK2BNdfsdfsdf/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Bangla", Desh TV
-https://nkafmbewiff.gpcdn.net/tile_6/1080p.m3u8
+https://prod-linear-media.toffeelive.com/cdn/live/desh_tv/1080/1080.m3u8?hdntl=Expires=1795973214~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0ucaDgHDPawzxNmfJAhcsDnWsfwzlXv6G9irqmQQnFryDwAdp-w8kOiaKNGe-CJNHk_Po8Do03WmCUpNwG7Xx90I&nocache=1795886814673
 
 #EXTINF:-1 group-title="Bangla", Doyel TV
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
@@ -79,6 +79,9 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Bangla", Sun Bangla
 http://27.124.71.27/Sun_Bangla/index.m3u8
+
+#EXTINF:-1 group-title="Bangla", Toffee TV
+https://prod-linear-media.toffeelive.com/cdn/live/toffee_drama/1080/1080.m3u8?hdntl=Expires=1795973637~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0udaONYe54ewGOIPUb5Fg-g1Efmoew65RPb9GX50n3K8Pp900ZoJEvJXgIGfXbisb8OCnTzZg7Mbb9dBtw2hHDAH&nocache=1795887243167
 
 #EXTINF:-1 group-title="Bangla", Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
@@ -111,7 +114,7 @@ https://tvsen6.aynaott.com/Epm7WrFa/tracks-v1a1/mono.ts.m3u8
 https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Bangla", Independent TV
-https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/tracks-v1a1/mono.ts.m3u8
+https://prod-linear-media.toffeelive.com/cdn/live/independent_tv/576/576.m3u8?hdntl=Expires=1795973319~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0ufzyhbOBcDlY0k9RBs1wpdDAKv-ZXG7PjU0gXiODkHDpz2V2fPu0YUemfn-OTUQODetkTwgAFIYDLQmJKaZnTAE&nocache=1795886919036
 
 #EXTINF:-1 group-title="Bangla", NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
@@ -359,6 +362,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #----------------------------
 # Movies
 #----------------------------
+#EXTINF:-1 group-title="Bangla", Toffe Movies
+https://prod-linear-media.toffeelive.com/cdn/live/toffee_movie/1080/1080.m3u8?hdntl=Expires=1795973719~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0ue3voLYbOVGsYnGAdoh3mHRSX-CMLgJnDQht3_UKwVprQ1PB_1jTaub4XDRaGtSdUHhw5oVPGWdzuPIeG62wbUC&nocache=1795887328313
+
+#EXTINF:-1 group-title="Bangla", Movie Bangla
+https://prod-linear-media.toffeelive.com/cdn/live/movie_bangla/1080/1080.m3u8?hdntl=Expires=1795973563~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0ucmpO4j71eGfvdwi6JaeYn002VA_9ISCzM50IZt8RbGwb2be_2swGN2wvaEtfhdFg6s-_6BzmzauVSmpj-UCQAO&nocache=1795887167921
+
 #EXTINF:-1 group-title="Bangla", Zee Cinema
 https://j6nfugukcl.gpcdn.net/tile_5/1080p.m3u8
 
@@ -521,6 +530,9 @@ https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/ts-eu-w1-n
 #----------------------------
 # Religion
 #----------------------------
+#EXTINF:-1 group-title="Religion", Islamic TV
+https://prod-linear-media.toffeelive.com/cdn/live/islamic_tv/576/576.m3u8?hdntl=Expires=1795973409~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMTBhZDU0Y2ItZWI0NS00ZjA1LWI4NmUtYTRjNjA3NGE1OTdjIn0~Signature=AaVr0ufNGsy05fA0G3w3Wg1u1TJcR4Rr2TWrBCtlfWYbS-Dalc7yCFYzwFK1XNriffa4qNA1z_gb4fM52OET3M1K5LMB&nocache=1795887014082
+
 #EXTINF:-1 group-title="Religion", Al Quran Al Kareem TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
